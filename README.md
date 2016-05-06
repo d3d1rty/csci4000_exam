@@ -1,18 +1,15 @@
-#Assignment 5 - CSCI 2070 (APSU)
+#Final Exam - CSCI 4000 (APSU)
 ##About
-This project is an assignment for CSCI 2070 (Intro to Java) course at APSU. Being this is an educational project for a grade, collaboration isn't exactly the goal here. But if you feel that you can benefit from perusing my code, go for it! 
+This project is the final exam for CSCI 4000.
 
 ##What it Does
-This project is a collection of small introductory classes.
+This project allows the user to store coordinate sets in the table and then applies a function to them.
 
 ##Usage
-Compile with `javac` and run with `java`. Each class is standalone.
-
-##Dependencies
-JDK 8
+XAMPP
 
 ##Academic Honesty
-Please, just keep in mind that academic dishonesty is probably (definitely) not tolerated by your educational institution, so come up with your own solutions. Besides, I sincerely doubt that your assignment has the same requirements as mine, so you will probably look like an idiot if you try to turn this in.
+I kept this repo private until after the deadline for the exam.
 
 ##Credits
 No outside assistance on this.
