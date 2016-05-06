@@ -62,12 +62,25 @@ label {
   padding: 1em;
   float: left;
 }
+.coordinate {
+  width: 3em;
+}
 select {
   margin: .5em;
   font: 105% Arial, Helvetica, sans-serif;
   color: #0f0a01;
   float: left;
   padding: .5em;
+}
+input[type="text"] {
+  font: 100% Arial, Helvetica, sans-serif;
+  color: #0f0a01;
+  float: left;
+  margin-bottom: .5em;
+  padding: 1em;
+  border: 1px solid #f9d490;
+  border-radius: 4px;
+  width: 2em;
 }
 input[type="submit"] {
   font: 100% Arial, Helvetica, sans-serif;
