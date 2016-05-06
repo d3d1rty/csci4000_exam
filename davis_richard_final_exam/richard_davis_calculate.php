@@ -51,11 +51,12 @@
           $z = $s['z'];
           // performs function on coordinate set
           $calc = (pow($x, 3)) + (pow($y, 2)) + (pow($z, 2));
+          $calc_formatted = number_format($calc, 2, '.', ',');
           // displays results
           echo "<i>f</i>(x".$i.", y".$i.", z".$i.") 
             = (x".$i.")<sup>3</sup> + (y".$i.")<sup>2</sup> + (z".$i.")<sup>2</sup> 
             = ".$x."<sup>3</sup> + ".$y."<sup>2</sup> + ".$z."<sup>2</sup> 
-            = ".$calc."</p>";
+            = ".$calc_formatted."</p>";
         }
       ?>
       <a href="index.php">Return to home page</a>
